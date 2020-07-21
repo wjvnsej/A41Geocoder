@@ -1,0 +1,2 @@
+rootProject.name='A41Geocoder'
+include ':app'
